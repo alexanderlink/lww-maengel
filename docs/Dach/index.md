@@ -13,6 +13,8 @@ nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell 
     - [Dach 8-13](#dach-8-13)
     - [Dachterrasse 8-13](#dachterrasse-8-13)
 
+_Hier geht es zurück zur [Startseite]._
+
 ## Historie
 
 ### Dachterrassen
@@ -118,6 +120,7 @@ Bei [8424-0382] sind große schwarze Flecken auf der Fassade im Bereich des Roll
   |---|---|---|---|---|
   |18.09.2023|08.01.2024|15.03.2024|🔴nein|🟠mittel|
     
+[Startseite]: ../index.md
 [A6]: A6/index.md
 [A11]: Dach1-7/A11/index.md
 [A12]: Dach1-7/A12/index.md
@@ -126,6 +129,6 @@ Bei [8424-0382] sind große schwarze Flecken auf der Fassade im Bereich des Roll
 [A8]: Dach8-13/A8/index.md
 [8424-0382]: Dach8-13/8424-0382/index.md
 [A7]: Dachterrasse8-13/A7/index.md
-[8424-0327]: Dachterrasse8-13//index.md
-[8424-0375]: Dachterrasse8-13//index.md
+[8424-0327]: Dachterrasse8-13/8424-0327/index.md
+[8424-0375]: Dachterrasse8-13/8424-0375/index.md
 [8424-0376]: Dachterrasse8-13/8424-0376/index.md
