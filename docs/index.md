@@ -1,5 +1,6 @@
-# Test Page
+# WEG Mängel LWW
 
-Hello
+Auf den folgenden Seiten sind Details zu unseren offenen WEG Mängeln zu finden.
 
-- World
+⚠️ Diese Seite ist öffentlich zugänglich! Daher werden keine konkreten Namen von beteiligten Firmen und Personen genannt.
+Entsprechende verlinkte Dokumente sind extern verlinkt und nur für authorisierte Personen zugänglich.
