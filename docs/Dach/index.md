@@ -50,7 +50,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
 ## Offene Mängel
 
-![Plan Dachflächen Mängel](Plan_Mängel_WEG_small.jpg)
+![](Plan_Mängel_WEG_small.jpg)
 
 ### Dach 1-7
 
