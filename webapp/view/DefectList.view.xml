@@ -1,0 +1,67 @@
+<mvc:View
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    controllerName="ui5.walkthrough.controller.DefectList"
+>
+    <List
+        id="defectList"
+        headerText="{i18n>defectListTitle}"
+        class="sapUiResponsiveMargin"
+        width="auto"
+        items="{
+            path : 'defect>/Defects',
+            sorter : {
+                path : 'ShipperName',
+                group: true
+            }
+        }"
+    >
+          <headerToolbar>
+            <Toolbar>
+                <Title text="{i18n>defectListTitle}"/>
+                <ToolbarSpacer/>
+                <SearchField 
+                width="50%"
+                liveChange=".onFilterDefects" 
+                />
+            </Toolbar>
+        </headerToolbar>
+        <items>
+            <ObjectListItem
+                icon="sap-icon://product"
+                title="{defect>Quantity} x {defect>ProductName} {= ${defect>Quantity} > 5 ? '😯' : '' }"
+                intro="{defect>ShipperName}"
+                number="{
+                  parts: [
+                     'defect>ExtendedPrice',
+                     'view>/currency'
+                  ],
+                  type: 'sap.ui.model.type.Currency',
+                  formatOptions: {
+                     showMeasure: false
+                  }
+               }"
+                numberUnit="{
+                  parts: [
+                     'defect>ExtendedPrice',
+                     'view>/currency'
+                  ],
+                  type: 'sap.ui.model.type.Currency',
+                  formatOptions: {
+                     showNumber: false,
+                     currencyCode: false
+                  }
+               }"
+                numberState="{= ${defect>ExtendedPrice} > 50 ? 'Error' : 'Success' }"
+            >
+               <firstStatus>
+                    <ObjectStatus
+                        text="{
+                            path: 'defect>Status',
+                            formatter: '.formatterObj.statusText'
+                        }"/>
+                </firstStatus>
+            </ObjectListItem>
+        </items>
+    </List>
+</mvc:View>

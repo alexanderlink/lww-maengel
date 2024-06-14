@@ -1,0 +1,11 @@
+{
+    "name": "ui5.walkthrough",
+    "version": "1.0.0",
+    "description": "LWW App",
+    "scripts": {
+        "start": "ui5 serve -o index.html"
+    },
+    "devDependencies": {
+        "@ui5/cli": "^3.10.3"
+    }
+}
