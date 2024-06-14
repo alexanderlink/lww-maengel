@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/mvc/Controller","sap/m/MessageToast","sap/ui/model/json/JSONModel","sap/ui/model/resource/ResourceModel"],(e,o,s,r)=>{"use strict";return e.extend("ui5.walkthrough.controller.App",{onInit(){}})});
+//# sourceMappingURL=App.controller.js.map

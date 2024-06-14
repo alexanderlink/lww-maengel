@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/mvc/Controller","sap/ui/model/json/JSONModel","../model/formatter","sap/ui/model/Filter","sap/ui/model/FilterOperator"],(e,t,o,i,r)=>{"use strict";return e.extend("ui5.walkthrough.controller.DefectList",{formatterObj:o,onInit(){const e=new t({currency:"EUR"});this.getView().setModel(e,"view")},onFilterDefects(e){const t=[];const o=e.getParameter("newValue");if(o){t.push(new i("ProductName",r.Contains,o))}const n=this.byId("defectList");const s=n.getBinding("items");s.filter(t)}})});
+//# sourceMappingURL=DefectList.controller.js.map

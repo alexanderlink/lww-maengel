@@ -1,0 +1,2 @@
+sap.ui.define(["sap/ui/core/UIComponent","sap/ui/model/json/JSONModel","sap/ui/model/resource/ResourceModel"],(e,n,t)=>{"use strict";return e.extend("ui5.walkthrough.Component",{metadata:{interfaces:["sap.ui.core.IAsyncContentCreation"],manifest:"json"},init(){e.prototype.init.apply(this,arguments);const o={recipient:{name:"World"}};const i=new n(o);this.setModel(i);const s=new t({bundleName:"ui5.walkthrough.i18n.i18n"});this.setModel(s,"i18n")}})});
+//# sourceMappingURL=Component.js.map

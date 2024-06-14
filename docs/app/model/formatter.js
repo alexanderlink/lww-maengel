@@ -1,0 +1,2 @@
+sap.ui.define([],()=>{"use strict";return{statusText(e){const t=this.getOwnerComponent().getModel("i18n").getResourceBundle();switch(e){case"A":return t.getText("defectStatusA");case"B":return t.getText("defectStatusB");case"C":return t.getText("defectStatusC");default:return e}}}});
+//# sourceMappingURL=formatter.js.map
