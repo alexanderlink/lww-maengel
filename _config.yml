@@ -1,0 +1,6 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+remote_theme: pages-themes/cayman
+include:
+  - style.css
