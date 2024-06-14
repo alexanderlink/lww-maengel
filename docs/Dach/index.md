@@ -15,9 +15,6 @@ nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell 
 
 ## Historie
 
-{% include test1.htm %}
-{% include test2.md %}
-
 ### Dachterrassen
 
 Auf inzwischen drei Dachterrassen hat haben sich ähnliche Wasserschäden ergeben.\
