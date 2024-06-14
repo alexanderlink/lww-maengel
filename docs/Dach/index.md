@@ -3,7 +3,7 @@
 Neben mehreren Gewerken bei denen fragwürdig ist, ob sie fachmännisch
 nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell noch die unten genannten konkreten offenen Mängel.
 
-- [Dachflächen](#dachflächen)
+- [Mängel Dachflächen](#mängel-dachflächen)
   - [Historie](#historie)
     - [Dachterrassen](#dachterrassen)
     - [Flachdach](#flachdach)
@@ -13,9 +13,10 @@ nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell 
     - [Dach 8-13](#dach-8-13)
     - [Dachterrasse 8-13](#dachterrasse-8-13)
 
-_Hier geht es zurück zur [Startseite]._
-
 ## Historie
+
+{% include test1.htm %}
+{% include test2.md %}
 
 ### Dachterrassen
 
