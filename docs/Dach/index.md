@@ -50,9 +50,9 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
 ## Offene Mängel
 
-!**[Plan Dachflächen Mängel]**(Plan_Mängel_WEG_small.jpg)
+![Plan Dachflächen Mängel](Plan_Mängel_WEG_small.jpg)
 
-### [Dach 1-7]
+### Dach 1-7
 
 - **[A6]** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern
 
@@ -66,7 +66,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dach1-7/A12/status.md %}
 
-### [Dachterrasse 1-7]
+### Dachterrasse 1-7
 
 - **[A9]** &ndash; Wasserschaden Dachterrasse, Haus 2
 
@@ -76,7 +76,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dachterrasse1-7/A10/status.md %}
 
-### [Dach 8-13]
+### Dach 8-13
 
 - **[A8]** &ndash; 2 Leckagen Dach, Haus 8
 
@@ -90,7 +90,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dach8-13/8424-0382/status.md %}
 
-### [Dachterrasse 8-13]
+### Dachterrasse 8-13
 
 - **[A7]** &ndash; Leckage Dachterrasse, Haus 11
 
@@ -108,10 +108,6 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dachterrasse8-13/8424-0376/status.md %}
 
-[Dach 1-7]: Dach1-7/index.md
-[Dach 8-13]: Dach1-13/index.md
-[Dachterrasse 1-7]: Dachterrasse1-7/index.md
-[Dachterrasse 8-13]: Dachterrasse1-13/index.md
 [A6]: A6/index.md
 [A11]: Dach1-7/A11/index.md
 [A12]: Dach1-7/A12/index.md
