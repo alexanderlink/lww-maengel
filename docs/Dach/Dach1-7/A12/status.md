@@ -1,3 +1,3 @@
 |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
 |---|---|---|---|---|
-|12.04.2024|12.06.2024|15.07.2024|🔴nein|🔴hoch|
+|30.06.2020|ja||🟡teilweise|🔥sehr hoch|

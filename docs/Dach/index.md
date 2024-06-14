@@ -9,7 +9,7 @@ nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell 
     - [Flachdach](#flachdach)
   - [Offene Mängel](#offene-mängel)
     - [Dach 1-7](#dach-1-7)
-    - [Dachterasse 1-7](#dachterasse-1-7)
+    - [Dachterrasse 1-7](#dachterrasse-1-7)
     - [Dach 8-13](#dach-8-13)
     - [Dachterrasse 8-13](#dachterrasse-8-13)
 
@@ -48,89 +48,68 @@ Bei [8424-0382] sind große schwarze Flecken auf der Fassade im Bereich des Roll
 
 ## Offene Mängel
 
-![](Plan_Mängel_WEG_small.jpg)
+![Plan Dachflächen Mängel](Plan_Mängel_WEG_small.jpg)
 
-### Dach 1-7
+### [Dach 1-7]
 
 - [A6] &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |12.04.2024|12.06.2024|15.07.2024|🔴nein|🔴hoch|
+  {% include_relative A6/status.md %}
 
 - [A11] &ndash; Leckage Dach, Haus 7
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |23.02.2023|?| |🟡teilweise|🔴hoch|
+  {% include_relative Dach1-7/A11/status.md %}
 
 - [A12] &ndash; Leckage Dach, Haus 3
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |30.06.2020|ja||🟡teilweise|🔥sehr hoch|
+  {% include_relative Dach1-7/A12/status.md %}
 
-### Dachterasse 1-7
+### [Dachterrasse 1-7]
 
 - [A9] &ndash; Wasserschaden Dachterrasse, Haus 2
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |April 2020|ja|nein|🟡teilweise|🔴hoch|
+  {% include_relative Dachterrasse1-7/A9/status.md %}
 
 - [A10] &ndash; Wasserschaden Dachterrasse, Haus 3
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |?|ja||🟡teilweise|🔴hoch|
+  {% include_relative Dachterrasse1-7/A10/status.md %}
 
-### Dach 8-13
+### [Dach 8-13]
 
 - [A8] &ndash; 2 Leckagen Dach, Haus 8
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |23.02.2023|ja||🟡teilweise|🔥sehr hoch|
+  {% include_relative Dach8-13/A8/status.md %}
 
 - [A6] &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |12.04.2024|12.06.2024|15.07.2024|🔴nein|🔴hoch|
+  {% include_relative A6/status.md %}
 
 - [8424-0382] &ndash; Schimmel Fassade Haus 10
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |05.04.2024|05.04.2024||🔴nein|🔴hoch|
+  {% include_relative Dach8-13/8424-0382/status.md %}
 
-### Dachterrasse 8-13
+### [Dachterrasse 8-13]
 
 - [A7] &ndash; Leckage Dachterrasse, Haus 11
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |18.09.2023|nein||🟡teilweise|🔴hoch|
+  {% include_relative Dachterrasse8-13/A7/status.md %}
 
 - [8424-0327] &ndash; Wasserschaden Dachterrasse, Haus 9
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |19.10.2022|19.10.2022|30.06.2024|🟡teilweise|🔥sehr hoch|
+  {% include_relative Dachterrasse8-13/8424-0327/status.md %}
 
 - [8424-0375] &ndash; DG Terrasse Folie tiefer als Abfluss, Haus 9
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |18.09.2023|08.01.2024|15.03.2024|🔴nein|🟠mittel|
+  {% include_relative Dachterrasse8-13/8424-0375/status.md %}
 
 - [8424-0376] &ndash; DG Terrasse Vlies nicht hoch genug, Haus 9
 
-  |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-  |---|---|---|---|---|
-  |18.09.2023|08.01.2024|15.03.2024|🔴nein|🟠mittel|
-    
-[Startseite]: ../index.md
+  {% include_relative Dachterrasse8-13/8424-0376/status.md %}
+
+[Dach 1-7]: Dach1-7/index.md
+[Dach 8-13]: Dach1-13/index.md
+[Dachterrasse 1-7]: Dachterrasse1-7/index.md
+[Dachterrasse 8-13]: Dachterrasse1-13/index.md
 [A6]: A6/index.md
 [A11]: Dach1-7/A11/index.md
 [A12]: Dach1-7/A12/index.md

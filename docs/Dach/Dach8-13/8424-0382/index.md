@@ -1,8 +1,6 @@
 # 8424-0382 &ndash; Schimmel Fassade Haus 10
 
-|Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-|---|---|---|---|---|
-|05.04.2024|05.04.2024||🔴nein|🔴hoch|
+{% include_relative status.md %}
 
 <br/><br/>
 _Details folgen_

@@ -1,8 +1,6 @@
 # A12 &ndash; Leckage Dach, Haus 3
 
-|Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-|---|---|---|---|---|
-|30.06.2020|ja||🟡teilweise|🔥sehr hoch|
+{% include_relative status.md %}
 
 <br/><br/>
 _Details folgen_

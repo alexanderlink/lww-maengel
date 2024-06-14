@@ -1,8 +1,6 @@
 # A9 &ndash; Wasserschaden Dachterrasse, Haus 2
 
-|Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-|---|---|---|---|---|
-|April 2020|ja|nein|🟡teilweise|🔴hoch|
+{% include_relative status.md %}
 
 <br/><br/>
 _Details folgen_

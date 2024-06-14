@@ -1,8 +1,6 @@
 # A10 &ndash; Wasserschaden Dachterrasse, Haus 3
 
-|Bemerkt|Gemeldet|Frist|Behoben|Risiko|
-|---|---|---|---|---|
-|?|ja||🟡teilweise|🔴hoch|
+{% include_relative status.md %}
 
 <br/><br/>
 _Details folgen_
