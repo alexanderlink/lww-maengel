@@ -23,7 +23,7 @@ sap.ui.define([
 			const aFilter = [];
 			const sQuery = oEvent.getParameter("newValue");
 			if (sQuery) {
-				aFilter.push(new Filter("ProductName", FilterOperator.Contains, sQuery));
+				aFilter.push(new Filter("Beschreibung", FilterOperator.Contains, sQuery));
 			}
 
 			// filter binding

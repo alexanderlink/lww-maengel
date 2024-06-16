@@ -1,0 +1,77 @@
+<mvc:View
+    xmlns="sap.m"
+    xmlns:mvc="sap.ui.core.mvc"
+    controllerName="ui5.walkthrough.controller.DefectList"
+>
+    <Table
+        id="defectList"
+        headerText="{i18n>defectListTitle}"
+        class="sapUiResponsiveMargin"
+        width="auto"
+        items="{
+            path : 'defect>/Defects',
+            sorter : {
+                path : 'Ort',
+                group: true
+            }
+        }"
+    >
+          <headerToolbar>
+            <Toolbar>
+                <Title text="{i18n>defectListTitle}"/>
+                <ToolbarSpacer/>
+                <SearchField 
+                width="50%"
+                liveChange=".onFilterDefects" 
+                />
+            </Toolbar>
+        </headerToolbar>
+		<columns>
+			<Column
+				minScreenWidth="Small"
+				demandPopin="true"
+				width="7em">
+				<Text text="{i18n>ID}" />
+			</Column>
+			<Column width="5em">
+				<Text text="{i18n>Bemerkt}" />
+			</Column>
+			<Column width="6em">
+				<Text text="{i18n>Gemeldet}" />
+			</Column>
+			<Column width="5em">
+				<Text text="{i18n>Frist}" />
+			</Column>
+			<Column>
+				<Text text="{i18n>Ort}" />
+			</Column>
+			<Column width="5em">
+				<Text text="{i18n>Typ}" />
+			</Column>
+			<Column width="3em">
+				<Text text="{i18n>Erledigt}" />
+			</Column>
+			<Column width="4em">
+				<Text text="{i18n>Risiko}" />
+			</Column>
+			<Column>
+				<Text text="{i18n>Beschreibung}" />
+			</Column>
+		</columns>
+        <items>
+            <ColumnListItem>
+            <cells>
+                <Text text="{defect>ID}" />
+                <Text text="{defect>Bemerkt}" />
+                <Text text="{defect>Gemeldet}" />
+                <Text text="{defect>Frist}" />
+                <Text text="{defect>Ort}" />
+                <Text text="{defect>Typ}" />
+                <Text text="{defect>Erledigt}" />
+                <Text text="{defect>Risiko}" />
+                <Text text="{defect>Beschreibung}" />
+            </cells>
+            </ColumnListItem>
+        </items>
+    </Table>
+</mvc:View>
