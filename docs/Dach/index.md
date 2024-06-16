@@ -29,6 +29,7 @@ Hier die wichtigsten Ereignisse bzgl. Dachflächen:
 | 23.02.2023| ([A8]+)| 1-13| Leckortung über alle Flachdächer beider Häuserreihen mittels Potentialausgleichsmessung. Leckagen bei mehreren Häusern gefunden und überwiegend lediglich abgedichtet. |
 | 23.02.2023| [A8] | 8| 2 Löcher in Folienabdichtung Dach Haus 8 gefunden. Schimmel an Wänden 2.OG |
 | 04.04.2023| [8424-0327] | 9| Trocknungsgeräte angeschlossen im Innen- und Außenbereich. |
+| 24.05.2023|	| 1-13 | Einschreiben an Bauträger alle Dachmängel zu beheben. Unterschrieben von allen Eigentümern. Gesetzte Frist: 24.05.2023 |
 | 18.09.2023| [8424-0327] | 8-13| Leckortung über alle Dachterrassen der hinteren Reihe mittels Potentialausgleichsmessung |
 | 08.01.2024| [8424-0375] | 9| Gemeldet: DG Terrasse Folie tiefer als Abfluss, Haus 9 |
 | 08.01.2024| [8424-0376] | 9| Gemeldet: DG Terrasse Vlies nicht hoch genug, Haus 9 |
