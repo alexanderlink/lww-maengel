@@ -1,10 +1,10 @@
-# TODO
+# 8424-0327 &ndash; Wasserschaden Dachterrasse Haus 9
 
 _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
-- [TODO](#todo)
+- [8424-0327 – Wasserschaden Dachterrasse Haus 9](#8424-0327--wasserschaden-dachterrasse-haus-9)
   - [Historie](#historie)
   - [Fotos](#fotos)
 
@@ -15,6 +15,9 @@ Aktueller Stand (16.06.2024):
 - Außen wird getrocknet, es tritt allerdings immer noch Wasser in die Dämmschicht ein.
 
 ## Historie
+
+Hier die meisten Ereignisse bzgl. der Wasserschadens über die Dachterrasse von Haus 9.
+Mails, etc. die nichts am Verlauf geändert haben wurden weggelassen.
 
 | Datum | Ereignis |
 | ----- | -------- |

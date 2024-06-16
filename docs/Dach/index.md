@@ -17,6 +17,27 @@ nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell 
 
 ## Historie
 
+Hier die wichtigsten Ereignisse bzgl. Dachflächen:
+
+| Datum | Mangel ID	| Haus | Ereignis | 
+| ----- | --------- | ---- | -------- |
+| Apr 20 | [A9] | 2| Wasser in Dämmung Dachterrasse Haus 2 |
+| 30.06.2020| [A10] | 3| Wasser in Dämmung Dachterrasse Haus 3 |
+| 04.08.2022| [A12] | 3| Wasser in Dämmung Dach Haus 3 |
+| 19.10.2022| [8424-0327] | 9| Wasser in Dämmung Dachterrasse und im Haus 9 |
+| 04.11.2022| [8424-0327] | 9| Vom Eigentümer beauftragter Sachverständiger vor Ort |
+| 23.02.2023| ([A8]+)| 1-13| Leckortung über alle Flachdächer beider Häuserreihen mittels Potentialausgleichsmessung. Leckagen bei mehreren Häusern gefunden und überwiegend lediglich abgedichtet. |
+| 23.02.2023| [A8] | 8| 2 Löcher in Folienabdichtung Dach Haus 8 gefunden. Schimmel an Wänden 2.OG |
+| 04.04.2023| [8424-0327] | 9| Trocknungsgeräte angeschlossen im Innen- und Außenbereich. |
+| 18.09.2023| [8424-0327] | 8-13| Leckortung über alle Dachterrassen der hinteren Reihe mittels Potentialausgleichsmessung |
+| 08.01.2024| [8424-0375] | 9| Gemeldet: DG Terrasse Folie tiefer als Abfluss, Haus 9 |
+| 08.01.2024| [8424-0376] | 9| Gemeldet: DG Terrasse Vlies nicht hoch genug, Haus 9 |
+| 13.12.2023| [8424-0327] | 9| Innenbereich wiederhergestellt. Außen weiterhin stehendes Wasser in der Dämmschicht. |
+| 02.01.2024| [8424-0327] | 9| Trocknungsgeräte abgebaut. Wird im Frühjahr fortgeführt. |
+| 04.03.2024| [8424-0327] | 9| Trocknungsgeräte außen aufgebaut. Trocknung bis jetzt. Weiterhin Wassereintritt, trotz mehrfacher Leckagenfunde und Abdichtungsversuchen. |
+| 05.04.2024| [8424-0382] | 10| Schimmel Fassade Rollladenkasten Dachterrasse Haus 10 |
+| 12.04.2024| [A6] | 1-13| Folienabdichtung löst sich auf Dach-Attika beider Häuserreihen an vielen Stellen |
+
 ### Dachterrassen
 
 Auf inzwischen drei Dachterrassen hat haben sich ähnliche Wasserschäden ergeben.\

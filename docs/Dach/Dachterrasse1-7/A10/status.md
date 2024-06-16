@@ -1,3 +1,3 @@
 |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
 |---|---|---|---|---|
-|?|ja||🟡teilweise|🔴hoch|
+|30.06.2020|ja||🟡teilweise|🔥sehr hoch|
