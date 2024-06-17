@@ -16,6 +16,15 @@ sap.ui.define([
 				currency: "EUR"
 			});
 			this.getView().setModel(oViewModel, "view");
+
+			// build filter array
+			/*const aFilter = [];
+			aFilter.push(new Filter("Erledigt", FilterOperator.NE, "ja"));
+			aFilter.push(new Filter("Typ", FilterOperator.NE, "Hinweis"));
+			// filter binding
+			const oList = this.byId("defectList");
+			const oBinding = oList.getBinding("items");
+			oBinding.filter(aFilter);*/
 		},
 
 		onFilterDefects(oEvent) {
@@ -23,7 +32,7 @@ sap.ui.define([
 			const aFilter = [];
 			const sQuery = oEvent.getParameter("newValue");
 			if (sQuery) {
-				aFilter.push(new Filter("ProductName", FilterOperator.Contains, sQuery));
+				aFilter.push(new Filter("Beschreibung", FilterOperator.Contains, sQuery));
 			}
 
 			// filter binding

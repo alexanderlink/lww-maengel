@@ -11,7 +11,7 @@
         items="{
             path : 'defect>/Defects',
             sorter : {
-                path : 'ShipperName',
+                path : 'ID',
                 group: true
             }
         }"
@@ -29,37 +29,13 @@
         <items>
             <ObjectListItem
                 icon="sap-icon://product"
-                title="{defect>Quantity} x {defect>ProductName} {= ${defect>Quantity} > 5 ? '😯' : '' }"
-                intro="{defect>ShipperName}"
-                number="{
-                  parts: [
-                     'defect>ExtendedPrice',
-                     'view>/currency'
-                  ],
-                  type: 'sap.ui.model.type.Currency',
-                  formatOptions: {
-                     showMeasure: false
-                  }
-               }"
-                numberUnit="{
-                  parts: [
-                     'defect>ExtendedPrice',
-                     'view>/currency'
-                  ],
-                  type: 'sap.ui.model.type.Currency',
-                  formatOptions: {
-                     showNumber: false,
-                     currencyCode: false
-                  }
-               }"
-                numberState="{= ${defect>ExtendedPrice} > 50 ? 'Error' : 'Success' }"
+                title="{defect>ID} x {defect>Beschreibung}"
+                intro="{defect>Ort}"
+                number="{defect>Frist}"
             >
                <firstStatus>
                     <ObjectStatus
-                        text="{
-                            path: 'defect>Status',
-                            formatter: '.formatterObj.statusText'
-                        }"/>
+                        text="{defect>erledigt}"/>
                 </firstStatus>
             </ObjectListItem>
         </items>

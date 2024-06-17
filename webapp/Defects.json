@@ -26,13 +26,13 @@
     },
     {
       "ID": "A12",
-      "Bemerkt": "30.06.2020",
+      "Bemerkt": "04.08.2022",
       "Gemeldet": "ja",
       "Frist": "",
       "Ort": "Dach (1-7)",
       "Typ": "Mangel",
       "Erledigt": "teilweise",
-      "Risiko": "sehr hoch",
+      "Risiko": "hoch",
       "Beschreibung": "Leckage Dach Haus 3 (Köhler)",
       "VerwandteMeldungen": ""
     },
@@ -86,13 +86,13 @@
     },
     {
       "ID": "A10",
-      "Bemerkt": "?",
+      "Bemerkt": "30.06.2020",
       "Gemeldet": "ja",
       "Frist": "",
       "Ort": "Dachterrasse (1-7)",
       "Typ": "Mangel",
       "Erledigt": "teilweise",
-      "Risiko": "hoch",
+      "Risiko": "sehr hoch",
       "Beschreibung": "Wasserschaden Dachterrasse Haus 3 (Köhler)",
       "VerwandteMeldungen": ""
     },
