@@ -1,4 +1,4 @@
-# A1 &ndash; Hebeanlage Tiefgarage unterdimensioniert und mangelhaft eingebaut
+# A1 &ndash; Hebepumpe ausgetauscht, aber keine Betonversiegelung
 
 _[&lt; zurück](../../index.md)_
 

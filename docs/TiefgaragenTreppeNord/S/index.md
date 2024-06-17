@@ -1,4 +1,4 @@
-# TODO
+# S &ndash; Nicht geschlossene Löcher von Verschalungsarbeitung in Wand TG Nord
 
 _[&lt; zurück](../../index.md)_
 
@@ -6,4 +6,4 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
->
+> Bald mehr Details

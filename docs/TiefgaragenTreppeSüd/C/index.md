@@ -1,4 +1,4 @@
-# TODO
+# C &ndash; Kiesstreifen an den Lüftungsöffnungen ca. 5cm tiefer setzen
 
 _[&lt; zurück](../../index.md)_
 
@@ -6,4 +6,4 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
->
+> Bald mehr Details

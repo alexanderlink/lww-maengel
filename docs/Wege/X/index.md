@@ -1,4 +1,4 @@
-# X &ndash; Schuppen vom Nachbar Im Sockelbereich ohne Beton
+# X &ndash; Schuppen vom Nachbar Im Sockelbereich ohne Beton. Mit Schutzfolie ausstatten.
 
 _[&lt; zurück](../../index.md)_
 
