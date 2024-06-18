@@ -6,3 +6,7 @@ _[&lt; zurück](../../index.md)_
 
 <br/><br/>
 _Details folgen_
+
+![](Daemmstoffstueck_Unterseite-2_small.jpg)
+
+![](PXL_20220804_061824942_small.jpg)

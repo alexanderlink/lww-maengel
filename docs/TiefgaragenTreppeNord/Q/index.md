@@ -7,3 +7,5 @@ _[&lt; zurück](../../index.md)_
 ## Ursprünglicher Meldungstext
 
 > Bald mehr Details
+
+![](Meldung.jpg)

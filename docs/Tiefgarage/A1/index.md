@@ -8,3 +8,4 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative meldungsText.md %}
 
+![](20200817_184129_small.jpg)
