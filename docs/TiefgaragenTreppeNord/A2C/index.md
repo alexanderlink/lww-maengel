@@ -7,3 +7,7 @@ _[&lt; zurück](../../index.md)_
 ## Ursprünglicher Meldungstext
 
 > Bald mehr Details
+
+![](PXL_20240609_171230881_small.jpg)
+
+![](PXL_20240609_171233986_small.jpg)
