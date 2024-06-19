@@ -6,7 +6,10 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
-> Bald mehr Details
+> Status: Neu (Nach Abnahme); nicht erledigt\
+> Raum: Treppenabgang Tiefgarage Nord\
+> Beschreibung: Abdichtung Geländeranschlüsse TG Nord fehlen. Anbringung Geländer nicht nach Regeln der Technik. Eindringen von Niederschlagswasser in Geländeranschlüsse möglich.\
+> Frist: 31.03.2021
 
 ![](Meldung1.jpg)
 

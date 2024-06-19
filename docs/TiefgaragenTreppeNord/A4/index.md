@@ -6,6 +6,8 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
-> Bald mehr Details
+> Status: offen,\
+> Raum: Nordwand Haus 1\
+> Beschreibung: Laufspuren durch Regenwasser an Außenwand über TG-Einfahrt. Verursacht durch Mangelhafte Ausführung Tropfblech Attika 2ter Stock.\
 
 ![](Meldung.png)

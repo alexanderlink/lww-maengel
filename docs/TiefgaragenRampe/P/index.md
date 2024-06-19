@@ -6,4 +6,7 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
-> Bald mehr Details
+> Status: Neu (Nach Abnahme), Kein Mangel\
+> Raum: Einfahrtrampe Tiefgarage\
+> Beschreibung: Gitter Entwässerungsrinne hinter TG-Tor schwer abnehmbar\
+> Frist: 31.03.2021

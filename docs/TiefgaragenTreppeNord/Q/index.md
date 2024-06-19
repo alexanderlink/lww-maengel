@@ -6,6 +6,10 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
-> Bald mehr Details
+> Status: Neu (Nach Abnahme)\
+> Raum: TG-Nord Ausgangstür\
+> Beschreibung: Fuge an Übergang Türrahmen / Boden mangelhaft\
+> Frist: 31.03.2021
+
 
 ![](Meldung.jpg)

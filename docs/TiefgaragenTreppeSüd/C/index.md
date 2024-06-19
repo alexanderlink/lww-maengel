@@ -6,6 +6,9 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
-> Bald mehr Details
+> Status: Im Abnahmeprotokoll, unbearbeitet\
+> Raum: Kiesstreifen vor Südwänden TG-Süd, Haus 7, Haus 13\
+> Beschreibung: Kiesstreifen sollten laut Protkoll 5 cm tiefer gelegt werden. Nicht erledigt\
+> Frist: 31.03.2021
 
 ![](Meldung.jpg)

@@ -6,6 +6,9 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
-> Bald mehr Details
+> Status: Neu (Nach Abnahme), Erledigt\
+> Raum: Treppenzugang TG Nord\
+> Beschreibung: Nicht geschlossene Löcher von Verschalungsarbeitung in Wand TG Nord\
+> Frist: 31.03.2021
 
 ![](Meldung.jpg)

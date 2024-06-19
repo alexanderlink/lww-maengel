@@ -4,8 +4,6 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
-## Ursprünglicher Meldungstext
-
 > Bald mehr Details
 
 ![](PXL_20240609_171230881_small.jpg)

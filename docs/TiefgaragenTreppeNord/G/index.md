@@ -6,7 +6,10 @@ _[&lt; zurück](../../index.md)_
 
 ## Ursprünglicher Meldungstext
 
-> Bald mehr Details
+> Status: Neu (Nach Abnahme); nicht erledigt\
+> Raum: Treppenabgang/Ausgang Tiefgarage Nord\
+> Beschreibung: Anstrich mangelhaft und fleckig. Von den Rohbauarbeitern hinterlassener Schriftzug “Albania” zu lesen.\
+> Frist: 31.03.2021
 
 ![](Meldung1.jpg)
 
