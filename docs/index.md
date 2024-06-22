@@ -92,13 +92,13 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
     {% include_relative TiefgaragenTreppeNord/V/status.md %}
 
 - **Tiefgarage Treppe Süd**
-  - [C](TiefgaragenTreppeSüd/C/index.md) &ndash; Kiesstreifen an den Lüftungsöffnungen ca. 5cm tiefer setzen
+  - [C](TiefgaragenTreppeSued/C/index.md) &ndash; Kiesstreifen an den Lüftungsöffnungen ca. 5cm tiefer setzen
 
-    {% include_relative TiefgaragenTreppeSüd/C/status.md %}
+    {% include_relative TiefgaragenTreppeSued/C/status.md %}
 
-  - [W](TiefgaragenTreppeSüd/W/index.md) &ndash; Türknauf Ausgangstür TG-Süd nicht nach Norm DIN EN 179
+  - [W](TiefgaragenTreppeSued/W/index.md) &ndash; Türknauf Ausgangstür TG-Süd nicht nach Norm DIN EN 179
 
-    {% include_relative TiefgaragenTreppeSüd/W/status.md %}
+    {% include_relative TiefgaragenTreppeSued/W/status.md %}
 
 - **Wege**
   - [X](Wege/X/index.md) &ndash; Schuppen vom Nachbar Im Sockelbereich ohne Beton. Mit Schutzfolie ausstatten.
