@@ -7,6 +7,7 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
 - [WEG Mängel LWW](#weg-mängel-lww)
   - [Mängel](#mängel)
+  - [Leimbach Problematik](#leimbach-problematik)
 
 ## Mängel
 
@@ -108,3 +109,7 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
   - [Z](Wege/Z/index.md) &ndash; Mangelhafte Pflasterarbeiten. Pfützenbildung (keine Gefälle). Mangelhafte Fugenbreiten. Mangelhafte Pflasterabschlüsse
 
     {% include_relative Wege/Z/status.md %}
+
+## Leimbach Problematik
+
+Siehe [Leimbach](Leimbach/index.md)
