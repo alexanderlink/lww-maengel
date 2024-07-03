@@ -76,57 +76,57 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
 ### Dach 1-7
 
-- **[A6]** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern
+- [**A6** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern][A6]
 
   {% include_relative A6/status.md %}
 
-- **[A11]** &ndash; Leckage Dach, Haus 7
+- [**A11** &ndash; Leckage Dach, Haus 7][A11]
 
   {% include_relative Dach1-7/A11/status.md %}
 
-- **[A12]** &ndash; Leckage Dach, Haus 3
+- [**A12** &ndash; Leckage Dach, Haus 3][A12]
 
   {% include_relative Dach1-7/A12/status.md %}
 
 ### Dachterrasse 1-7
 
-- **[A9]** &ndash; Wasserschaden Dachterrasse, Haus 2
+- [**A9** &ndash; Wasserschaden Dachterrasse, Haus 2][A9]
 
   {% include_relative Dachterrasse1-7/A9/status.md %}
 
-- **[A10]** &ndash; Wasserschaden Dachterrasse, Haus 3
+- [**A10** &ndash; Wasserschaden Dachterrasse, Haus 3][A10]
 
   {% include_relative Dachterrasse1-7/A10/status.md %}
 
 ### Dach 8-13
 
-- **[A8]** &ndash; 2 Leckagen Dach, Haus 8
+- [**A8** &ndash; 2 Leckagen Dach, Haus 8][A8]
 
   {% include_relative Dach8-13/A8/status.md %}
 
-- **[A6]** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern
+- [**A6** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern][A6]
 
   {% include_relative A6/status.md %}
 
-- **[8424-0382]** &ndash; Schimmel Fassade Haus 10
+- [**8424-0382** &ndash; Schimmel Fassade Haus 10][8424-0382]
 
   {% include_relative Dach8-13/8424-0382/status.md %}
 
 ### Dachterrasse 8-13
 
-- **[A7]** &ndash; Leckage Dachterrasse, Haus 11
+- [**A7** &ndash; Leckage Dachterrasse, Haus 11][A7]
 
   {% include_relative Dachterrasse8-13/A7/status.md %}
 
-- **[8424-0327]** &ndash; Wasserschaden Dachterrasse, Haus 9
+- [**8424-0327** &ndash; Wasserschaden Dachterrasse, Haus 9][8424-0327]
 
   {% include_relative Dachterrasse8-13/8424-0327/status.md %}
 
-- **[8424-0375]** &ndash; DG Terrasse Folie tiefer als Abfluss, Haus 9
+- [**8424-0375** &ndash; DG Terrasse Folie tiefer als Abfluss, Haus 9][8424-0375]
 
   {% include_relative Dachterrasse8-13/8424-0375/status.md %}
 
-- **[8424-0376]** &ndash; DG Terrasse Vlies nicht hoch genug, Haus 9
+- [**8424-0376** &ndash; DG Terrasse Vlies nicht hoch genug, Haus 9][8424-0376]
 
   {% include_relative Dachterrasse8-13/8424-0376/status.md %}
 
