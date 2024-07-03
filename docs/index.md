@@ -112,4 +112,7 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
 ## Leimbach Problematik
 
-Siehe [Leimbach](Leimbach/index.md)
+Siehe [Leimbach].
+
+
+[Leimbach]: https://alexanderlink.github.io/leimbach/
