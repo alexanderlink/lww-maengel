@@ -13,3 +13,9 @@ _[&lt; zurück](../../index.md)_
 ![](20240309_172655_small.jpg)
 
 ![](20240309_172659_small.jpg)
+
+![](PXL_20240622_091312741.RAW-01.COVER_small.jpg)
+
+![](PXL_20240622_091320206.RAW-01.COVER_small.jpg)
+
+![](PXL_20240622_091338523.RAW-01.COVER_small.jpg)

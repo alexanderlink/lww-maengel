@@ -75,6 +75,10 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
   {% include_relative TiefgaragenTreppeNord/A5/status.md %}
 
+- [**A13** &ndash; Tiefgarage Türscharnier rostet](TiefgaragenTreppeNord/A13/index.md)
+
+  {% include_relative TiefgaragenTreppeNord/A13/status.md %}
+
 - [**G** &ndash; Anstrich mangelhaft und fleckig. Von den Rohbauarbeitern hinterlassener Schriftzug "Albania" zu lesen.](TiefgaragenTreppeNord/G/index.md)
 
   {% include_relative TiefgaragenTreppeNord/G/status.md %}
