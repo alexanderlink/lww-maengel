@@ -4,5 +4,6 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
-<br/><br/>
-_Details folgen_
+Im Bereich des Rollladens zur Dachterrasse sind schwarze Stellen aufgetreten.
+
+Sollte der Grund Wasser hinter der Dämmung sein, hieße dass, das Dach oder die Attika wäre undicht.

@@ -4,8 +4,7 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
-<br/><br/>
-_Details folgen_
+Als eine Dachdeckerfirma einen zweiten Schwanenhals montieren sollte, wurde festgestellt (und dokumentiert), dass die Dämmung Innen feucht ist.
 
 ![](Daemmstoffstueck_Unterseite-2_small.jpg)
 

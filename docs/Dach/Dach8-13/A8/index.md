@@ -7,8 +7,6 @@ _[&lt; zurück](../../index.md)_
 <br/><br/>
 _Details folgen_
 
-![](20230223_115709_small.jpg)
-
 ![](20230223_134627_small.jpg)
 
 ![](20230223_143114_small.jpg)
@@ -17,4 +15,5 @@ _Details folgen_
 
 ![](20230224_101429_small.jpg)
 
-![](Daemmstoffstueck_Unterseite-2_small.jpg)
+<!-- Haus 10? -->
+![](20230223_115709_small.jpg)

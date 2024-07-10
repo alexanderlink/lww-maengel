@@ -14,6 +14,9 @@ Aktueller Stand (16.06.2024):
 - Innen wurde alles getrocknet und wiederhergestellt.
 - Außen wird getrocknet, es tritt allerdings immer noch Wasser in die Dämmschicht ein.
 
+- [_Siehe ähnlicher Wasserschaden bei Haus 2 (A9)_](../A9/index.md)
+- [_Siehe ähnlicher Wasserschaden bei Haus 3 (A10)_](../A10/index.md)
+
 ## Historie
 
 Hier die meisten Ereignisse bzgl. der Wasserschadens über die Dachterrasse von Haus 9.

@@ -4,5 +4,4 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
-<br/><br/>
-_Details folgen_
+Es hat den Anschein als wäre die Folienabdichtung (im Bereich des Regenabflusses) tiefer als das Abflussrohr. Dadurch bleibt immer Wasser auf der Folienabdichtung stehen. Es ist zu klären, ob dies so zulässig ist.
