@@ -6,6 +6,8 @@ _[&lt; zurück](../../index.md)_
 
 > Bald mehr Details
 
+2024-06-09
 ![](PXL_20240609_171144586_small.jpg)
 
+2024-06-09
 ![](PXL_20240609_171151897_small.jpg)

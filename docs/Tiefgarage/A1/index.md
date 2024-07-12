@@ -23,5 +23,6 @@ Durch das neue Konzept sind die Betonwände dauerhaft Schmutzwasser, z.B. mit St
 - _Siehe außerdem_ [_Zulaufrohr dauerhaft unter Wasser (A1B)_](../A1B/index.md)
 - _Siehe außerdem_ [_Montageteile Hebepumpe korrodieren (A1C)_](../A1C/index.md)
 
-(Foto alte Pumpe)
+(Foto alte Pumpe)\
+2020-08-17
 ![](20200817_184129_small.jpg)
