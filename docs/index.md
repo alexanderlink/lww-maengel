@@ -8,6 +8,10 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 - [WEG Mängel LWW](#weg-mängel-lww)
   - [Mängel](#mängel)
     - [**Mängel an Dachflächen**](#mängel-an-dachflächen)
+    - [Dach 1-7](#dach-1-7)
+    - [Dachterrasse 1-7](#dachterrasse-1-7)
+    - [Dach 8-13](#dach-8-13)
+    - [Dachterrasse 8-13](#dachterrasse-8-13)
     - [**Tiefgarage**](#tiefgarage)
     - [**Tiefgarage Rampe**](#tiefgarage-rampe)
     - [**Tiefgarage Treppe Nord**](#tiefgarage-treppe-nord)
@@ -19,7 +23,63 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
 ### [**Mängel an Dachflächen**](Dach/index.md)
 
-- (siehe [separate Übersichtsseite](Dach/index.md))
+(siehe [separate Übersichtsseite](Dach/index.md))
+
+### Dach 1-7
+
+- [**A6** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern][A6]
+
+  {% include_relative Dach/A6/status.md %}
+
+- [**A11** &ndash; Leckage Dach, Haus 7][A11]
+
+  {% include_relative Dach/Dach1-7/A11/status.md %}
+
+- [**A12** &ndash; Leckage Dach, Haus 3][A12]
+
+  {% include_relative Dach/Dach1-7/A12/status.md %}
+
+### Dachterrasse 1-7
+
+- [**A9** &ndash; Wasserschaden Dachterrasse, Haus 2][A9]
+
+  {% include_relative Dach/Dachterrasse1-7/A9/status.md %}
+
+- [**A10** &ndash; Wasserschaden Dachterrasse, Haus 3][A10]
+
+  {% include_relative Dach/Dachterrasse1-7/A10/status.md %}
+
+### Dach 8-13
+
+- [**A8** &ndash; 2 Leckagen Dach, Haus 8][A8]
+
+  {% include_relative Dach/Dach8-13/A8/status.md %}
+
+- [**A6** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern][A6]
+
+  {% include_relative Dach/A6/status.md %}
+
+- [**8424-0382** &ndash; Schimmel Fassade Haus 10][8424-0382]
+
+  {% include_relative Dach/Dach8-13/8424-0382/status.md %}
+
+### Dachterrasse 8-13
+
+- [**A7** &ndash; Leckage Dachterrasse, Haus 11][A7]
+
+  {% include_relative Dach/Dachterrasse8-13/A7/status.md %}
+
+- [**8424-0327** &ndash; Wasserschaden Dachterrasse, Haus 9][8424-0327]
+
+  {% include_relative Dach/Dachterrasse8-13/8424-0327/status.md %}
+
+- [**8424-0375** &ndash; DG Terrasse Folie tiefer als Abfluss, Haus 9][8424-0375]
+
+  {% include_relative Dach/Dachterrasse8-13/8424-0375/status.md %}
+
+- [**8424-0376** &ndash; DG Terrasse Vlies nicht hoch genug, Haus 9][8424-0376]
+
+  {% include_relative Dach/Dachterrasse8-13/8424-0376/status.md %}
 
 ### **Tiefgarage**
 
@@ -131,5 +191,17 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
 Siehe [Leimbach].
 
+
+[A6]: Dach/A6/index.md
+[A11]: Dach/Dach1-7/A11/index.md
+[A12]: Dach/Dach1-7/A12/index.md
+[A9]: Dach/Dachterrasse1-7/A9/index.md
+[A10]: Dach/Dachterrasse1-7/A10/index.md
+[A8]: Dach/Dach8-13/A8/index.md
+[8424-0382]: Dach/Dach8-13/8424-0382/index.md
+[A7]: Dach/Dachterrasse8-13/A7/index.md
+[8424-0327]: Dach/Dachterrasse8-13/8424-0327/index.md
+[8424-0375]: Dach/Dachterrasse8-13/8424-0375/index.md
+[8424-0376]: Dach/Dachterrasse8-13/8424-0376/index.md
 
 [Leimbach]: https://alexanderlink.github.io/leimbach/
