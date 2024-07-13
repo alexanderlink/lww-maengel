@@ -7,4 +7,6 @@ _[&lt; zurück](../../index.md)_
 <br/><br/>
 _Details folgen_
 
-Notiz: Die Leckage von Haus 7 taucht nicht im Leckortungsprotokoll auf. Es ist zu klären, ob und wann eine Leckage identifiziert wurde.
+Notiz: Die Leckage von Haus 7 wird nicht im [Untersuchungsprotokoll] (zugriffsgesichert) der Leckortung mittels Potenzialausgleichsmessungen vom 23.02.2023 auf. Es ist zu klären, ob und wann eine Leckage identifiziert wurde.
+
+[Untersuchungsprotokoll]: https://drive.google.com/drive/folders/1Bhk95p84AaMtnwnOoj_zFdLu95Lqjsnd?usp=drive_link
