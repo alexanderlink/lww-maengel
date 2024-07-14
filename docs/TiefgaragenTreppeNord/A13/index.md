@@ -6,6 +6,8 @@ _[&lt; zurück](../../index.md)_
 
 Das Scharnier der Tiefgaragentür rostet. Ist diese für den Außenbereich zugelassen, oder warum rostet es?
 
+## Fotos
+
 2024-06-19
 ![](PXL_20240619_145246016.RAW-01.COVER_small.jpg)
 

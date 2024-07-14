@@ -11,5 +11,6 @@ _[&lt; zurück](../../index.md)_
 > Beschreibung: Fuge an Übergang Türrahmen / Boden mangelhaft\
 > Frist: 31.03.2021
 
+## Fotos
 
 ![](Meldung.jpg)

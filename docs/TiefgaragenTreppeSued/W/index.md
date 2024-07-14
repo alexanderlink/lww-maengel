@@ -12,4 +12,14 @@ _[&lt; zurück](../../index.md)_
 > -> Nicht bearbeitet trotz mehrmaliger Aufforderung und Hinweis auf Norm. Wenn Kanuf durch klinke ersetzt wird, muss Einbruchsschutz mit aktualisiert werden.\
 > Frist: 31.03.2021
 
+## Historie
+
+[Bauträger EMail (14.07.2024)]:
+
+> Punkt W: Türknauf wird gegen Türgriff ausgetauscht – Dieser Punkt ist noch offen. Hier war ein Handwerker vor Ort, der die Stelle begutachtet hat. Er ist auf der Suche nach einem passenden Türknauf. 
+
+## Fotos
+
 ![](Meldung.jpg)
+
+[Bauträger EMail (14.07.2024)]: https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link

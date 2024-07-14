@@ -9,6 +9,7 @@ Als eine Dachdeckerfirma einen zweiten Schwanenhals montieren sollte, wurde fest
 Am 23.02.2023 wurde außerdem eine Leckortung bei den Flachdächern beider Häuserreihen mittels Potenzialausgleichsmessungen durchgeführt. Hierbei wurde auch festgestellt, dass bei Haus 3 der Flüssigkunststoff am Schwanenhals undicht ist.
 Hier das zugehörige [Untersuchungsprotokoll] (zugriffsgesichert).
 
+## Fotos
 
 ![](Daemmstoffstueck_Unterseite-2_small.jpg)
 

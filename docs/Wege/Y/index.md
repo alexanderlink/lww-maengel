@@ -11,4 +11,6 @@ _[&lt; zurück](../../index.md)_
 > Beschreibung: Erde von Nachbargrundstück rutscht auf Privatweg der WEG wegen mangelnder Seitenbefestigung Fußweg.\
 > Frist: 31.03.2021
 
+## Fotos
+
 ![](Meldung.jpg)

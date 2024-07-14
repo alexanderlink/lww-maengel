@@ -11,4 +11,12 @@ _[&lt; zurück](../../index.md)_
 > Beschreibung: Privatweg Südostecke Haus 13: L-Steine mit Kantensteinen erweitern. Ausführung der Kantensteine tiefer als der L-Stein.\
 > Frist: 31.03.2021
 
+## Historie
+
+[Bauträger EMail (14.07.2024)]:
+
+> Punkt D: L-Stein wird mit Kantenstein erweitert - Dieser Punkt wurde erledigt.
+
 ![](Meldung.jpg)
+
+[Bauträger EMail (14.07.2024)]: https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link

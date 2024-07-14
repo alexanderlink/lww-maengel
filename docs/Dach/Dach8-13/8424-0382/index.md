@@ -8,6 +8,8 @@ Im Bereich des Rollladens zur Dachterrasse sind schwarze Stellen aufgetreten.
 
 Sollte der Grund Wasser hinter der Dämmung sein, hieße dass, das Dach oder die Attika wäre undicht.
 
+## Fotos
+
 2024-04-21
 ![](20240421_160940_small.jpg)
 

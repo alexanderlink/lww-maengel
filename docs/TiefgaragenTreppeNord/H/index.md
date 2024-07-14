@@ -11,6 +11,8 @@ _[&lt; zurück](../../index.md)_
 > Beschreibung: Abdichtung Geländeranschlüsse TG Nord fehlen. Anbringung Geländer nicht nach Regeln der Technik. Eindringen von Niederschlagswasser in Geländeranschlüsse möglich.\
 > Frist: 31.03.2021
 
+## Fotos
+
 ![](Meldung1.jpg)
 
 ![](Meldung2.jpg)

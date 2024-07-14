@@ -10,6 +10,8 @@ _[&lt; zurück](../../index.md)_
 > Raum: Oberflächen der Betonmauern im Außenbereich TG Nord\
 > Beschreibung: Schutz gegen Schlagregen/Bewitterung fehlt. Erste Mängel an Betonoberflächen treten auf.
 
+## Fotos
+
 2024-03-09
 ![](20240309_172655_small.jpg)
 

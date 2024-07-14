@@ -12,6 +12,8 @@ Der Bauträger hat daraufhin die Leckagen abdichten lassen, ohne allerdings
 eine Öffnung vornehmen zu lassen, um zu untersuchen, wieviel Wasser eingedrungen ist.
 Eine Trocknung der Dämmschicht hat dementsprechend auch nie stattgefunden.
 
+## Fotos
+
 2023-02-23
 ![](20230223_134627_small.jpg)
 

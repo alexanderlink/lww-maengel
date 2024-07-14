@@ -11,5 +11,14 @@ _[&lt; zurück](../../index.md)_
 > Beschreibung: Sicherungen für Ablaufgitter fehlen.\
 > Frist: 31.03.2021
 
+## Historie
+
+[Bauträger EMail (14.07.2024)]:
+
+> Punkt K: Rinnenverschrauben wird angebracht - Dieser Punkt wurde erledigt. 
+
+## Fotos
 
 ![](Meldung.jpg)
+
+[Bauträger EMail (14.07.2024)]: https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link

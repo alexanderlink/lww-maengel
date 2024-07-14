@@ -11,6 +11,11 @@ _[&lt; zurück](../../index.md)_
 > Beschreibung: Auswaschungen/Kristalisierung in Mauerecke zu Garten Haus #8.\
 > -> Bereits ein Abstellversuch unternommen. Vermutlich nur übermalt und nicht zusätzlich mit Dichtmaterial verpresst. Gleiche Auswaschungen traten wieder auf. 
 
+## Weitere Historie
+
+
+## Fotos
+
 ![](Meldung1.png)
 
 ![](Meldung2.png)

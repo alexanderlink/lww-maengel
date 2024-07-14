@@ -12,7 +12,17 @@ _[&lt; zurück](../../index.md)_
 > -> Loch unter Treppenstufen mit Beton verfüllt. Anstrich Wand zur TG-Einfahrt nicht bearbeitet. Noch immer sehr fleckig\
 > Frist: 31.03.2021
 
+## Historie
+
+[Bauträger EMail (14.07.2024)]:
+
+> Punkt J: Die Stelle wird betoniert und glattgestrichen - Dieser Punkt wurde erledigt.
+
+## Fotos
+
 ![](Meldung.jpg)
 
 2024-02-17
 ![](20240217_165400_small.jpg)
+
+[Bauträger EMail (14.07.2024)]: https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link

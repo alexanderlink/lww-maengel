@@ -16,6 +16,8 @@ Die schlechte Abdichtung im Bereich der Rollladenleisten wurde in unseren Augen 
 - [_Siehe gleicher Wasserschaden bei Haus 2 (A9)_](../A9/index.md)
 - [_Siehe ähnlicher Wasserschaden bei Haus 9 (8424-0327)_](../../Dachterrasse8-13/8424-0327/index.md)
 
+## Fotos
+
 ![](IMG_20200630_040145.jpg)
 
 ![](IMG_20200701_102621.jpg)
