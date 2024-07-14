@@ -24,4 +24,13 @@ Die Kabel werden inzwischen durch Flexrohre geschützt. Die Kabel ansich sind we
 
 ![](Meldung.jpg)
 
+2024-05-19
+![](20240519_173818_small.jpg)
+
+2024-05-19
+![](20240519_173904_small.jpg)
+
+2024-05-19
+![](20240519_173937_small.jpg)
+
 [Bauträger EMail (14.07.2024)]: https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link
