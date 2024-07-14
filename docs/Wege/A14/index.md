@@ -8,7 +8,7 @@ Meldungstext:
 
 > Punkt neu 1: Bauträger prüft, ob ein öffentlicher Stellplatz im Auftrag enthalten war
 
-## Historie
+## Weitere Historie
 
 Bauträger EMail (06.10.2023): 
 

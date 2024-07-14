@@ -12,7 +12,7 @@ _[&lt; zurück](../../index.md)_
 > -> Wurde nur mit Zinkspray übersprüht; Mangelhafte Ausführung; rostet nach wenigen Wochen schon wieder\
 > Frist: 31.03.2021
 
-## Historie
+## Weitere Historie
 
 [Bauträger EMail (14.07.2024)]:
 

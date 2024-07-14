@@ -12,7 +12,7 @@ _[&lt; zurück](../../index.md)_
 > -> Loch unter Treppenstufen mit Beton verfüllt. Anstrich Wand zur TG-Einfahrt nicht bearbeitet. Noch immer sehr fleckig\
 > Frist: 31.03.2021
 
-## Historie
+## Weitere Historie
 
 [Bauträger EMail (14.07.2024)]:
 

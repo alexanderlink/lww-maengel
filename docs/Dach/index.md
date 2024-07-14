@@ -6,7 +6,7 @@ Neben mehreren Gewerken bei denen fragwürdig ist, ob sie fachmännisch
 nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell noch die unten genannten konkreten offenen Mängel.
 
 - [Mängel Dachflächen](#mängel-dachflächen)
-  - [Historie](#historie)
+  - [Weitere Historie](#weitere-historie)
     - [Dachterrassen](#dachterrassen)
     - [Flachdach](#flachdach)
   - [Offene Mängel](#offene-mängel)
@@ -15,7 +15,7 @@ nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell 
     - [Dach 8-13](#dach-8-13)
     - [Dachterrasse 8-13](#dachterrasse-8-13)
 
-## Historie
+## Weitere Historie
 
 Hier die wichtigsten Ereignisse bzgl. Dachflächen:
 
@@ -80,7 +80,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative A6/status.md %}
 
-- [**A11** &ndash; Leckage Dach, Haus 7][A11]
+- ([**A11** &ndash; Leckage Dach, Haus 7][A11])
 
   {% include_relative Dach1-7/A11/status.md %}
 

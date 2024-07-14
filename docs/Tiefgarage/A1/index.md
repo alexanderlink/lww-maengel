@@ -12,7 +12,7 @@ _[&lt; zurück](../../index.md)_
 > -> Pumpen gegen größere ausgetauscht. Förderleistung gut. Auffangbehälter aus Kunststoff entfernt. WU-Beton wird direkt mit Fzg.-Betriebsmitteln und Salzen beaufschlagt. Bewährung wird sich üerb die Zeit zersetzen. Teile der neuen Hebeanlage sind aus verzinktem Stahl. Dieser rostet massiv an den dauerhaft unter Wasser stehenden teilen. Technisch mangelhafte Ausführung.\
 > Frist: 31.03.2021
 
-## Historie
+## Weitere Historie
 
 Die Pumpe wurde inzwischen ausgetauscht durch zwei leistungsstärkere Pumpen.
 

@@ -12,7 +12,7 @@ _[&lt; zurück](../../index.md)_
 > -> Nicht bearbeitet trotz mehrmaliger Aufforderung und Hinweis auf Norm. Wenn Kanuf durch klinke ersetzt wird, muss Einbruchsschutz mit aktualisiert werden.\
 > Frist: 31.03.2021
 
-## Historie
+## Weitere Historie
 
 [Bauträger EMail (14.07.2024)]:
 

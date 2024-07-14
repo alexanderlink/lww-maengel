@@ -12,7 +12,7 @@ _[&lt; zurück](../../index.md)_
 > -> Kein technischer Mangel. Nach mehreren baufachlichen Meinung unproblematisch.\
 > Frist: 31.03.2021
 
-## Historie
+## Weitere Historie
 
 EMail vom 27. September 2023 an Bauträger:
 

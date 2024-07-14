@@ -8,6 +8,9 @@ Im Bereich des Rollladens zur Dachterrasse sind schwarze Stellen aufgetreten.
 
 Sollte der Grund Wasser hinter der Dämmung sein, hieße dass, das Dach oder die Attika wäre undicht.
 
+_Mutmaßlicher vereinfachter Aufbau Dach Attika und Fassade:_
+![](Diagramm_small.jpg)
+
 ## Fotos
 
 2024-04-21
@@ -15,6 +18,3 @@ Sollte der Grund Wasser hinter der Dämmung sein, hieße dass, das Dach oder die
 
 2024-04-21
 ![](20240421_160946_small.jpg)
-
-Aufbau Dach Attika und Fassade
-![](Diagramm_small.jpg)

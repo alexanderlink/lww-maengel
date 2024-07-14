@@ -1,4 +1,4 @@
-# A8 &ndash; 2 Leckagen Dach, Haus 8
+# A15 &ndash; 2 Leckagen Dach, Haus 10
 
 _[&lt; zurück](../../index.md)_
 
@@ -14,25 +14,19 @@ Eine Trocknung der Dämmschicht hat dementsprechend auch nie stattgefunden.
 
 ## Fotos
 
-2023-02-23 (aus Leckortungsprotokoll)![](230223_Leckortungsprotokoll_Bild23_small.jpg)
-
-2023-02-23 (aus Leckortungsprotokoll)![](230223_Leckortungsprotokoll_Bild24_small.jpg)
-
-2023-02-23 (aus Leckortungsprotokoll)![](230223_Leckortungsprotokoll_Bild25_small.jpg)
+2023-02-23 (aus Leckortungsprotokoll)
+![](230223_Leckortungsprotokoll_Bild19_small.jpg)
 
 2023-02-23 (aus Leckortungsprotokoll)
-![](230223_Leckortungsprotokoll_Bild26_small.jpg)
+![](230223_Leckortungsprotokoll_Bild20_small.jpg)
 
-2023-02-23
-![](20230223_134627_small.jpg)
+2023-02-23 (aus Leckortungsprotokoll)
+![](230223_Leckortungsprotokoll_Bild21_small.jpg)
 
-2023-02-23
-![](20230223_143114_small.jpg)
+2023-02-23 (aus Leckortungsprotokoll)
+![](230223_Leckortungsprotokoll_Bild22_small.jpg)
 
-2023-02-24
-![](20230224_101121_small.jpg)
-
-2023-02-24
-![](20230224_101429_small.jpg)
+2023-02-23 (Haus 10)
+![](20230223_115709_small.jpg)
 
 [Untersuchungsprotokoll]: https://drive.google.com/drive/folders/1Bhk95p84AaMtnwnOoj_zFdLu95Lqjsnd?usp=drive_link

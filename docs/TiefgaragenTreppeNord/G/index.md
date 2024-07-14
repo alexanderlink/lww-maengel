@@ -11,7 +11,7 @@ _[&lt; zurück](../../index.md)_
 > Beschreibung: Anstrich mangelhaft und fleckig. Von den Rohbauarbeitern hinterlassener Schriftzug “Albania” zu lesen.\
 > Frist: 31.03.2021
 
-## Historie
+## Weitere Historie
 
 [Bauträger EMail (14.07.2024)]:
 

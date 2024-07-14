@@ -31,13 +31,13 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
   {% include_relative Dach/A6/status.md %}
 
-- [**A11** &ndash; Leckage Dach, Haus 7][A11]
-
-  {% include_relative Dach/Dach1-7/A11/status.md %}
-
 - [**A12** &ndash; Leckage Dach, Haus 3][A12]
 
   {% include_relative Dach/Dach1-7/A12/status.md %}
+
+- ([**A11** &ndash; Leckage Dach, Haus 7][A11])
+
+  {% include_relative Dach/Dach1-7/A11/status.md %}
 
 #### **Dachterrasse 1-7**
 

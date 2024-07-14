@@ -13,6 +13,12 @@ Hier das zugehörige [Untersuchungsprotokoll] (zugriffsgesichert).
 
 ![](Daemmstoffstueck_Unterseite-2_small.jpg)
 
-![](PXL_20220804_061824942_small.jpg)
+2022-08-04
+![](20220804_061824942_small.jpg)
+
+2023-02-23 (aus Leckortungsprotokoll)
+![](20230223_Leckortungsprotokoll_Bild9_small.jpg)
+
+2023-02-23 (aus Leckortungsprotokoll)![](20230223_Leckortungsprotokoll_Bild10_small.jpg)
 
 [Untersuchungsprotokoll]: https://drive.google.com/drive/folders/1Bhk95p84AaMtnwnOoj_zFdLu95Lqjsnd?usp=drive_link

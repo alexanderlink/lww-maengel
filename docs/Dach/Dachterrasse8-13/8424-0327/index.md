@@ -5,7 +5,7 @@ _[&lt; zurück](../../index.md)_
 {% include_relative status.md %}
 
 - [8424-0327 – Wasserschaden Dachterrasse Haus 9](#8424-0327--wasserschaden-dachterrasse-haus-9)
-  - [Historie](#historie)
+  - [Weitere Historie](#weitere-historie)
   - [Fotos](#fotos)
 
 Bei Haus 9 lief 2022 Wasser unter die Folienabdichtung der Dachterrasse und über ein Loch in der Wand (für Stromkabel) ins Haus, auf den Betonboden des 2.OG, bis zum Treppenhaus und hat dort die Trockenbauwände durchnässt.
@@ -17,7 +17,7 @@ Aktueller Stand (16.06.2024):
 - [_Siehe ähnlicher Wasserschaden bei Haus 2 (A9)_](../A9/index.md)
 - [_Siehe ähnlicher Wasserschaden bei Haus 3 (A10)_](../A10/index.md)
 
-## Historie
+## Weitere Historie
 
 Hier die meisten Ereignisse bzgl. der Wasserschadens über die Dachterrasse von Haus 9.
 Mails, etc. die nichts am Verlauf geändert haben wurden weggelassen.
@@ -33,7 +33,7 @@ Mails, etc. die nichts am Verlauf geändert haben wurden weggelassen.
 | 03.04.2023 | Dachdecker + Rollladenbauer: Rollladenschienen entfernt, Folie abgedichtet mit Flüssigkunststoff, 2 Kaldomate (HT-Rohre) installiert |
 | 04.04.2024 | Trocknungsgeräte Innen und Außen installiert |
 | 11.05.2023 | Innen trocken. Außen weiterhin stehendes Wasser! |
-| 18.09.2023 | Leckortung mittels Draht über die komplette Dachterrassenfläche: 2 Schnitte bei Haus 9, 1 Leckage bei Haus 11 |
+| 18.09.2023 | Leckortung mittels Potenzialausgleichsmessungen über die komplette Dachterrassenfläche: 2 Schnitte bei Haus 9, 1 Leckage bei Haus 11 |
 | 22.09.2023 | Dachdecker: Abdichtung Leckagen |
 | 22.11.2023 | Immer noch 1-2cm stehendes Wasser in Dämmung |
 | 13.12.2023 | Innenbereich komplett wiederhergestellt |
