@@ -6,7 +6,7 @@ Auf den folgenden Seiten sind Details zu unseren offenen WEG Mängeln zu finden.
 Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen zugänglich.
 
 - [WEG Mängel LWW](#weg-mängel-lww)
-  - [Mängel](#mängel)
+  - [Offene Mängel](#offene-mängel)
     - [**Mängel an Dachflächen**](#mängel-an-dachflächen)
       - [**Dach 1-7**](#dach-1-7)
       - [**Dachterrasse 1-7**](#dachterrasse-1-7)
@@ -17,9 +17,10 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
     - [**Tiefgarage Treppe Nord**](#tiefgarage-treppe-nord)
     - [**Tiefgarage Treppe Süd**](#tiefgarage-treppe-süd)
     - [**Wege**](#wege)
+  - [Behobene Mängel](#behobene-mängel)
   - [Leimbach Problematik](#leimbach-problematik)
 
-## Mängel
+## Offene Mängel
 
 ### [**Mängel an Dachflächen**](Dach)
 
@@ -83,6 +84,10 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
 ### **Tiefgarage**
 
+- [**I** &ndash; Lüftungsöffnungen bekommen Blechbänke Mit Gefälle nach außen](Tiefgarage/I)
+
+  {% include_relative Tiefgarage/I/status.md %}
+
 - [**A1** &ndash; Hebepumpe ausgetauscht, aber keine Betonversiegelung](Tiefgarage/A1)
 
   {% include_relative Tiefgarage/A1/status.md %}
@@ -95,10 +100,6 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
   {% include_relative Tiefgarage/A1C/status.md %}
 
-- [**I** &ndash; Lüftungsöffnungen bekommen Blechbänke Mit Gefälle nach außen](Tiefgarage/I)
-
-  {% include_relative Tiefgarage/I/status.md %}
-
 ### **Tiefgarage Rampe**
 
 - [**N** &ndash; Wand TG-Einfahrt gegenüber von Haus 1 mangelhaft und fleckig gestrichen](TiefgaragenRampe/N)
@@ -110,6 +111,30 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
   {% include_relative TiefgaragenRampe/P/status.md %}
 
 ### **Tiefgarage Treppe Nord**
+
+- [**G** &ndash; Anstrich mangelhaft und fleckig. Von den Rohbauarbeitern hinterlassener Schriftzug "Albania" zu lesen.](TiefgaragenTreppeNord/G)
+
+  {% include_relative TiefgaragenTreppeNord/G/status.md %}
+
+- [**H** &ndash; Abdichtung Geländeranschlüsse TG Nord fehlen](TiefgaragenTreppeNord/H)
+
+  {% include_relative TiefgaragenTreppeNord/H/status.md %}
+
+- [**Q** &ndash; Fuge an Übergang Türrahmen / Boden mangelhaft](TiefgaragenTreppeNord/Q)
+
+  {% include_relative TiefgaragenTreppeNord/Q/status.md %}
+
+- [**S** &ndash; Nicht geschlossene Löcher von Verschalungsarbeitung in Wand TG Nord](TiefgaragenTreppeNord/S)
+
+  {% include_relative TiefgaragenTreppeNord/S/status.md %}
+
+- [**T** &ndash; Entwässerungsrost ist nicht abnehmbar und WDVS Abschluss Mit Flexyl nachbessern](TiefgaragenTreppeNord/T)
+
+  {% include_relative TiefgaragenTreppeNord/T/status.md %}
+
+- [**U** &ndash; Mangelhaftet Korrosionsschutz Verbindungsstellen Fahrradrampe TG-Nord](TiefgaragenTreppeNord/U)
+
+  {% include_relative TiefgaragenTreppeNord/U/status.md %}
 
 - [**A2** &ndash; Unter Treppe Tiefgarage Schlagregen, Wasser bleibt stehen. Moosbildung.](TiefgaragenTreppeNord/A2)
 
@@ -139,34 +164,6 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
   {% include_relative TiefgaragenTreppeNord/A13/status.md %}
 
-- [**G** &ndash; Anstrich mangelhaft und fleckig. Von den Rohbauarbeitern hinterlassener Schriftzug "Albania" zu lesen.](TiefgaragenTreppeNord/G)
-
-  {% include_relative TiefgaragenTreppeNord/G/status.md %}
-
-- [**H** &ndash; Abdichtung Geländeranschlüsse TG Nord fehlen](TiefgaragenTreppeNord/H)
-
-  {% include_relative TiefgaragenTreppeNord/H/status.md %}
-
-- [**Q** &ndash; Fuge an Übergang Türrahmen / Boden mangelhaft](TiefgaragenTreppeNord/Q)
-
-  {% include_relative TiefgaragenTreppeNord/Q/status.md %}
-
-- [**S** &ndash; Nicht geschlossene Löcher von Verschalungsarbeitung in Wand TG Nord](TiefgaragenTreppeNord/S)
-
-  {% include_relative TiefgaragenTreppeNord/S/status.md %}
-
-- [**T** &ndash; Entwässerungsrost ist nicht abnehmbar und WDVS Abschluss Mit Flexyl nachbessern](TiefgaragenTreppeNord/T)
-
-  {% include_relative TiefgaragenTreppeNord/T/status.md %}
-
-- [**U** &ndash; Mangelhaftet Korrosionsschutz Verbindungsstellen Fahrradrampe TG-Nord](TiefgaragenTreppeNord/U)
-
-  {% include_relative TiefgaragenTreppeNord/U/status.md %}
-
-- [**V** &ndash; Übergang Treppe TG Nord zu Hang Pflanzbeet nicht absturzgesichert](TiefgaragenTreppeNord/V)
-
-  {% include_relative TiefgaragenTreppeNord/V/status.md %}
-
 ### **Tiefgarage Treppe Süd**
 
 - [**C** &ndash; Kiesstreifen an den Lüftungsöffnungen ca. 5cm tiefer setzen](TiefgaragenTreppeSued/C)
@@ -187,9 +184,47 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 
   {% include_relative Wege/Z/status.md %}
 
+## Behobene Mängel
+
+- [**A** &ndash; Sand-/Kiesfänge in Entwässerungskästen](Wege/A)
+
+  {% include_relative Wege/A/status_done.md %}
+
+- [**D** &ndash; Privatweg Südostecke Haus 13: L-Steine mit Kantensteinen erweitern](Wege/D)
+
+  {% include_relative Wege/D/status_done.md %}
+
+- [**E** &ndash; Zugangswege nachsanden](Wege/E)
+
+  {% include_relative Wege/E/status_done.md %}
+
+- [**F** &ndash; Giebelwand Haus 8: Ein Pflasterstein ist zu kurz](Wege/F)
+
+  {% include_relative Wege/F/status_done.md %}
+
+- [**K** &ndash; Sicherungen für Ablaufgitter fehlen](Wege/K)
+
+  {% include_relative Wege/K/status_done.md %}
+
+- [**L** &ndash; Gebrochener/angeschnittener Pflasterstein verwendet](Wege/L)
+
+  {% include_relative Wege/L/status_done.md %}
+
+- [**R** &ndash; Notüberlauf TG-Dach Nord unbearbeitet](TiefgaragenTreppeNord/R)
+
+  {% include_relative TiefgaragenTreppeNord/R/status_done.md %}
+
+- [**V** &ndash; Übergang Treppe TG Nord zu Hang Pflanzbeet nicht absturzgesichert](TiefgaragenTreppeNord/V)
+
+  {% include_relative TiefgaragenTreppeNord/V/status_done.md %}
+
+- [**Y** &ndash; Erde von Nachbargrundstück rutscht auf Privatweg der WEG wegen mangelnder Seitenbefestigung Fußweg](Wege/Y)
+
+  {% include_relative Wege/Y/status_done.md %}
+
 - [**A14** &ndash; Fehlender öffentlicher Parkplatz](Wege/A14)
 
-  {% include_relative Wege/A14/status.md %}
+  {% include_relative Wege/A14/status_done.md %}
 
 ## Leimbach Problematik
 

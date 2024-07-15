@@ -2,7 +2,7 @@
 
 _[&lt; zurück](../../index.md)_
 
-{% include_relative status.md %}
+{% include_relative status_done.md %}
 
 Meldungstext:
 

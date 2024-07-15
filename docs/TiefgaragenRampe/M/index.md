@@ -22,6 +22,8 @@ EMail vom 27. September 2023 an Bauträger:
 
 > Punkt neu l: Bauträger prüft, ob oberhalb der Rampenwand (Beton) Handlungsbedarf besteht – **Dieser Punkt wurde erledigt.**
 
+Anmerkung WEG: Was genau wurde "erledigt"? Am Putz wurde nichts gemacht. Sprechen wir über den gleichen Punkt?
+
 ## Fotos
 
 ![](Meldung.jpg)

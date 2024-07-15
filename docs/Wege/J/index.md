@@ -1,8 +1,10 @@
-#  &ndash; 
+# J &ndash; Loch unter Treppenstufen & Anstrich Wand zur TG-Einfahrt
 
 _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
+
+⚠️ Dieser Punkt sollte getrennt behandelt werden!
 
 ## Ursprünglicher Meldungstext
 

@@ -1,8 +1,8 @@
-#  &ndash; 
+# Y &ndash; Erde von Nachbargrundstück rutscht auf Privatweg der WEG wegen mangelnder Seitenbefestigung Fußweg
 
 _[&lt; zurück](../../index.md)_
 
-{% include_relative status.md %}
+{% include_relative status_done.md %}
 
 ## Ursprünglicher Meldungstext
 
