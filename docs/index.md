@@ -5,7 +5,10 @@ Auf den folgenden Seiten sind Details zu unseren offenen WEG Mängeln zu finden.
 ⚠️ Diese Seite ist öffentlich zugänglich! Daher werden keine konkreten Namen von beteiligten Firmen und Personen genannt.
 Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen zugänglich.
 
+**Inhaltsverzeichnis:**
+
 - [WEG Mängel LWW](#weg-mängel-lww)
+  - [Wichtige Dokumente](#wichtige-dokumente)
   - [Offene Mängel](#offene-mängel)
     - [**Mängel an Dachflächen**](#mängel-an-dachflächen)
       - [**Dach 1-7**](#dach-1-7)
@@ -19,6 +22,23 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
     - [**Wege**](#wege)
   - [Behobene Mängel](#behobene-mängel)
   - [Leimbach Problematik](#leimbach-problematik)
+
+## Wichtige Dokumente
+
+Einige hilfreiche Dokumente sind zugangsgesichert verfügbar:
+
+- [04.11.2022 - Notizen Sachverständigentermin - Dach Haus 9](https://drive.google.com/file/d/104bJ77lQfi1xoOSHuf9ICYlsFTwSRsbp/view?usp=drive_link)
+  - Infolge [Wasserschaden 8424-0327](Dach/Dachterrasse8-13/8424-0327/) (Haus 9)
+- [24.02.2023 - Leckortungsprotokoll Dächer beider Häuserreihen](https://drive.google.com/drive/folders/1Bhk95p84AaMtnwnOoj_zFdLu95Lqjsnd?usp=drive_link)
+  - Infolge [Wasserschaden A8](Dach/Dach8-13/A8) (Haus 8)
+  - Gefunden [Leckage A15](Dach/Dach8-13/A15) (Haus 10)
+  - Gefunden [Leckage A12](Dach/Dach1-7/A12) (Haus 3)
+- [14.05.2023 - Einschreiben der WEG an Bauträger mit Aufforderung Dachterrassenmängel bei allen Häusern zu beheben](https://drive.google.com/file/d/1Y8I3tcwwMnLmO_No-6JKDFZzxGLoZtwI/view?usp=drive_link)\
+  _(Keine Reaktion)_
+- [24.07.2024 - Letzte Stellungnahme des Bauträgers zu offenen WEG Mängeln](https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link)\
+  _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
+
+
 
 ## Offene Mängel
 

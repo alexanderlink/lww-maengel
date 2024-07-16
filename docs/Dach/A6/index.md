@@ -2,6 +2,8 @@
 
 _[&lt; zurück](../index.md)_
 
+Bauträger Vorgangsnummer: 8424-0391
+
 {% include_relative status.md %}
 
 Bei der Dachwartung wurde festgestellt, dass sich die Folienabdichtung auf der Attika bei beiden Häuserreihen an vielen Stellen löst.
