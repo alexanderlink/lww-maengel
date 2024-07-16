@@ -2,6 +2,8 @@
 
 _[&lt; zurück](../../index.md)_
 
+_Bauträger Vorgangsnummer: 8424-0376_
+
 {% include_relative status.md %}
 
 Der Aufbau der Dachterrasse ist: Beton, Bitumenbahn, Dämmung, Folienabdichtung, Vlies, Splitt, Terrassenplatten. Die Folienabdichtung ist an den Wandbereichen hochgezogen.

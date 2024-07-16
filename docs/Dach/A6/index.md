@@ -2,7 +2,7 @@
 
 _[&lt; zurück](../index.md)_
 
-Bauträger Vorgangsnummer: 8424-0391
+_Bauträger Vorgangsnummer: 8424-0391 (WEG) + 8424-0388 (Haus 9)_
 
 {% include_relative status.md %}
 

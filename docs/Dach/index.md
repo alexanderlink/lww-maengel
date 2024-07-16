@@ -118,7 +118,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dachterrasse8-13/A7/status.md %}
 
-- [**8424-0327** &ndash; Wasserschaden Dachterrasse, Haus 9][8424-0327]
+- [**8424-0327** &ndash; Wasserschaden Dachterrasse, 2. OG und 1. OG, Haus 9][8424-0327]
 
   {% include_relative Dachterrasse8-13/8424-0327/status.md %}
 

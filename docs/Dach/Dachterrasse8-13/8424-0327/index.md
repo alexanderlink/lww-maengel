@@ -1,10 +1,12 @@
-# 8424-0327 &ndash; Wasserschaden Dachterrasse Haus 9
+# 8424-0327 &ndash; Wasserschaden Dachterrasse, 2. OG und 1. OG, Haus 9
 
 _[&lt; zurück](../../index.md)_
 
+_Bauträger Vorgangsnummer: 8424-0327_
+
 {% include_relative status.md %}
 
-- [8424-0327 – Wasserschaden Dachterrasse Haus 9](#8424-0327--wasserschaden-dachterrasse-haus-9)
+- [8424-0327 – Wasserschaden Dachterrasse, 2. OG und 1. OG, Haus 9](#8424-0327--wasserschaden-dachterrasse-2-og-und-1-og-haus-9)
   - [Weitere Historie](#weitere-historie)
   - [Fotos](#fotos)
 

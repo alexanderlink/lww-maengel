@@ -2,6 +2,8 @@
 
 _[&lt; zurück](../../index.md)_
 
+_Bauträger Vorgangsnummer: 8424-0375_
+
 {% include_relative status.md %}
 
 Es hat den Anschein als wäre die Folienabdichtung (im Bereich des Regenabflusses) tiefer als das Abflussrohr. Dadurch bleibt immer Wasser auf der Folienabdichtung stehen. Es ist zu klären, ob dies so zulässig ist.

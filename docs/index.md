@@ -31,12 +31,13 @@ Einige hilfreiche Dokumente sind zugangsgesichert verfügbar:
   - Infolge [Wasserschaden 8424-0327](Dach/Dachterrasse8-13/8424-0327/) (Haus 9)
 - [24.02.2023 - Leckortungsprotokoll Dächer beider Häuserreihen](https://drive.google.com/drive/folders/1Bhk95p84AaMtnwnOoj_zFdLu95Lqjsnd?usp=drive_link)
   - Infolge [Wasserschaden A8](Dach/Dach8-13/A8) (Haus 8)
-  - Gefunden [Leckage A15](Dach/Dach8-13/A15) (Haus 10)
-  - Gefunden [Leckage A12](Dach/Dach1-7/A12) (Haus 3)
+  - Gefunden: [Leckage A15](Dach/Dach8-13/A15) (Haus 10)
+  - Gefunden: [Leckage A12](Dach/Dach1-7/A12) (Haus 3)
 - [14.05.2023 - Einschreiben der WEG an Bauträger mit Aufforderung Dachterrassenmängel bei allen Häusern zu beheben](https://drive.google.com/file/d/1Y8I3tcwwMnLmO_No-6JKDFZzxGLoZtwI/view?usp=drive_link)\
 _(Der Text ist auch [hier direkt zu lesen](20230524_weg_einschreiben))_
   - _(Keine Reaktion, bis auf Arbeiten an Haus 9)_
-  
+- [12.04.2024 - Protokoll Dachwartung](https://drive.google.com/file/d/1tNOIEzBm2SvLJNSvS4Et1mOr3rhv_loe/view?usp=drive_link)
+  - Folge: [Mangel A6](Dach/A6)
 - [24.07.2024 - Letzte Stellungnahme des Bauträgers zu offenen WEG Mängeln](https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link)\
 _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
@@ -92,7 +93,7 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Dach/Dachterrasse8-13/A7/status.md %}
 
-- [**8424-0327** &ndash; Wasserschaden Dachterrasse, Haus 9][8424-0327]
+- [**8424-0327** &ndash; Wasserschaden Dachterrasse, 2. OG und 1. OG, Haus 9][8424-0327]
 
   {% include_relative Dach/Dachterrasse8-13/8424-0327/status.md %}
 
