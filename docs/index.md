@@ -34,9 +34,11 @@ Einige hilfreiche Dokumente sind zugangsgesichert verfügbar:
   - Gefunden [Leckage A15](Dach/Dach8-13/A15) (Haus 10)
   - Gefunden [Leckage A12](Dach/Dach1-7/A12) (Haus 3)
 - [14.05.2023 - Einschreiben der WEG an Bauträger mit Aufforderung Dachterrassenmängel bei allen Häusern zu beheben](https://drive.google.com/file/d/1Y8I3tcwwMnLmO_No-6JKDFZzxGLoZtwI/view?usp=drive_link)\
-  _(Keine Reaktion)_
+_(Der Text ist auch [hier direkt zu lesen](20230524_weg_einschreiben))_
+  - _(Keine Reaktion, bis auf Arbeiten an Haus 9)_
+  
 - [24.07.2024 - Letzte Stellungnahme des Bauträgers zu offenen WEG Mängeln](https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link)\
-  _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
+_(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
 
 
